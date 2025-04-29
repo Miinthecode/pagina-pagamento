@@ -18,7 +18,7 @@ export default function CardFront(){
             <FcSimCardChip size={90}/>
             <LuNfc size={35} color="#fff"/>
             </div>
-            <div className="w-full h-[40%] pl-5  text-white">NUMEROS
+            <div className="w-full h-[40%] pl-5">NUMEROS
                 <p className="text-[35px] text-gray-500">0000 0000 0000 0000</p>
             </div>
         </div>
